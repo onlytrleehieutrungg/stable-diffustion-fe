@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "jsxImportSource": "theme-ui",
+    "experimentalDecorators": true,
     "paths": {
       "@/*": ["./src/*"]
     }
